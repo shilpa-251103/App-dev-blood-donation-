@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text="                                 Helper desk"
+            android:background="@drawable/border"
+            android:textColor="@color/redbrow"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text=" How to become a blood donor?"
+            android:textColor="@color/redbrow"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text="Navigate to the blood donation page through the middle button in the main fragment page.You will get to see two buttons in the main page , where blood donors is going to take you through further activities such that you get to become a donor after filling out some required information.Take a look at the questions in the signup after clicking on blood donor and do fill it out to become a donor ."
+            android:textColor="@color/red"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text=" How to find blood donors?"
+            android:textColor="@color/redbrow"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text="Navigate to the blood donation page through the middle button in the main fragment page.You will get to see two buttons in the main page , where find donors is going to take you through further activities such that you get to contact a donor .Use the search bar provided in the find donors and find appropriate donor required and contact the donor using the mobile they provided . Please refrain from using this app for any other purporses ."
+            android:textColor="@color/red"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text=" About"
+            android:textColor="@color/redbrow"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="409dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:padding="8dp"
+            android:text="A blood donation app can help connect blood donors with individuals in urgent need of blood. Timely access to blood donations can save lives, particularly in critical situations like accidents, surgeries, and medical conditions requiring transfusions.
+
+An app can efficiently match blood donors with recipients based on blood type, location, and availability. This ensures that the right type of blood reaches those who need it, reducing the time and effort required to find donors.
+
+By creating an app, you can raise awareness about the importance of blood donation and encourage more people to become donors. This can have a positive impact on the overall blood donation rates in your community.
+
+A user-friendly app makes it convenient for both donors and recipients to navigate through the donation process. Donors can easily register, schedule appointments, and find donation centers, while recipients can quickly request and receive blood.
+
+An app can provide real-time updates on blood donation drives, events, and urgent needs in a particular area. This helps donors stay informed and engaged with donation opportunities.
+
+Blood shortages are a common concern in many places. By creating an app that connects donors and recipients efficiently, you contribute to reducing shortages and ensuring a steady supply of blood.
+
+An app can foster a sense of community among blood donors. People who donate blood regularly may appreciate being part of a community that values their contributions.
+
+Some apps may include features to track a donor's health and donation history. This can help ensure that donors are eligible and healthy to donate, leading to safer blood transfusions.
+
+Collaborating with local blood banks, hospitals, and healthcare organizations can help you create a comprehensive app that addresses the specific needs of your region.
+
+Creating a blood donation app allows you to make a significant positive impact on society. Your app can contribute to saving lives, improving healthcare, and raising awareness about the importance of blood donation."
+            android:textColor="@color/red"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+
+</ScrollView>
